@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Qazo</string>
+    <string name="content_description">content description</string>
+    <string name="january">January</string>
 </resources>
